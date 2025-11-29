@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-openai
+chromadb
+pypdf
+python-dotenv
+sqlite3
+uuid

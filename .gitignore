@@ -1,0 +1,5 @@
+.env
+chroma/
+uploaded_documents/
+.vscode-upload.json
+repo.git/
